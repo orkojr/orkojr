@@ -2,11 +2,6 @@
 - 👀 I’m interested in  le developpement fullstack.
 - 🌱 I’m currently learning  Laravel 8 et angular 13
 - 💞️ I’m looking to collaborate on  le developpement mobile
-4
-- 💞️ Je cherche à collaborer sur...
-5
-- 📫 Comment me joindre... 
-6
 
 - 📫 How to reach me  ecrire un mail sur jordankamga17@gmail.com
 
