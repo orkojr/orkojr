@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @orkojr
+- 👋 Hi, I’m @JK
 - 👀 I’m interested in  le developpement fullstack.
 - 🌱 I’m currently learning  Laravel 8 et angular 13
 I do mobile development with the flutter framework.
