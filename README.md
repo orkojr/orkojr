@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @orkojr
 - 👀 I’m interested in  le developpement fullstack.
 - 🌱 I’m currently learning  Laravel 8 et angular 13
+I do mobile development with the flutter framework.
+I do web development with the laravel framework.
 - 💞️ I’m looking to collaborate on  le developpement mobile
 
 - 📫 How to reach me  ecrire un mail sur jordankamga17@gmail.com
