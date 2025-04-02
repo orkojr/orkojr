@@ -1,30 +1,19 @@
-# À propos de moi - Développeur Flutter
+🚀 **Développeur Full-Stack Flutter & Odoo** | **Contributeur Open-Source** | **Passionné de Code Propre**  
 
-## Présentation
-Je suis un développeur passionné spécialisé dans le développement d'applications mobiles multiplateformes avec Flutter. J'ai une solide expérience dans la création d'applications performantes, esthétiques et conviviales pour iOS et Android.
+Bonjour, je suis Jordan Kamga Wafo. Je conçois :  
+- **Des applications mobiles performantes** avec Flutter  
+- **Des solutions ERP sur mesure** avec Odoo  
 
-## Compétences
+Mon objectif : créer des **systèmes intégrés** qui relient mobile et back-end métier.  
 
-- **Flutter**: J'ai une expertise approfondie dans le développement d'applications avec Flutter. Je maîtrise les concepts fondamentaux tels que les widgets, la gestion de l'état, la navigation et la personnalisation de l'interface utilisateur.
-- **Dart**: Je suis très à l'aise avec le langage de programmation Dart, utilisé pour développer des applications Flutter. Je suis familier avec ses fonctionnalités avancées, telles que les futures et les streams, ce qui me permet de créer des applications réactives.
-- **UI/UX**: J'ai une sensibilité esthétique et une compréhension approfondie des principes de conception d'interfaces utilisateur attrayantes et intuitives. Je suis capable de créer des mises en page flexibles, des transitions fluides et une expérience utilisateur engageante.
-- **Intégration d'API**: J'ai de l'expérience dans l'intégration d'API RESTful et la manipulation de données JSON. Je suis capable de communiquer efficacement avec les services back-end pour récupérer et afficher les données nécessaires dans mes applications.
-- **Gestion de l'état**: Je suis familier avec différentes approches pour gérer l'état de l'application, y compris le gestionnaire d'état par défaut de Flutter, ainsi que des solutions tierces telles que Provider et Riverpod.
-- **Tests et débogage**: Je suis compétent dans l'écriture de tests unitaires et d'intégration pour mes applications Flutter. Je suis également à l'aise avec l'utilisation des outils de débogage pour identifier et résoudre les problèmes éventuels.
+### 🔧 **Technologies Maîtrisées**  
+- **Mobile** : Flutter • Dart • Firebase • Provider/Clean Architecture • API REST/SQLite  • Intégration d'API  
+- **ERP** : Odoo • Python • PostgreSQL • XML 
+- **DevOps** : CI/CD (GitHub Actions) • Docker  
 
-## Projets récents
 
-- **Application de covoiturage**: Description du projet. Technologies utilisées : Flutter, Dart, Firebase, OpenId connect
-- 
+### 📫 **Collaboration**  
+- Ouvert aux **missions freelance**, **contributions open-source** et **projets innovants**  
+- Contact : [jordankamga17@gmail.com] | [LinkedIn](www.linkedin.com/in/jordan-kamga-wafo-524353206)  
 
-## Contact
-
-Je suis toujours ouvert aux opportunités de collaboration et d'emploi. N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si vous souhaitez discuter de projets potentiels.
-
-- Email: [jordankamga17@gmail.com](mailto:jordankamga17@gmail.com)
-- LinkedIn: [Jordan Kamga Wafo](https://www.linkedin.com/in/jordan-kamga-wafo-524353206)
-
-Je suis impatient de travailler sur de nouveaux projets passionnants et de contribuer à leur succès avec mes compétences en développement Flutter.
-
-Cordialement,
-Jordan Kamga Wafo
+📌 *"Transformer des problèmes complexes en solutions élégantes."*  
