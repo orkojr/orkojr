@@ -1,19 +1,49 @@
-🚀 **Développeur Full-Stack Flutter & Odoo** | **Contributeur Open-Source** | **Passionné de Code Propre**  
+🚀 Développeur Full-Stack Flutter & Odoo | Contributeur Open Source | Artisan du Code Propre
+👋 Salut, je suis Jordan Kamga Wafo, passionné par la création de solutions logicielles robustes, évolutives et élégantes.
 
-Bonjour, je suis Jordan Kamga Wafo. Je conçois :  
-- **Des applications mobiles performantes** avec Flutter  
-- **Des solutions ERP sur mesure** avec Odoo  
+🎯 J’aide les entreprises et entrepreneurs à transformer leurs idées en applications mobiles performantes et systèmes ERP sur mesure.
 
-Mon objectif : créer des **systèmes intégrés** qui relient mobile et back-end métier.  
+📱 Ce que je construis
+Applications mobiles multiplateformes avec Flutter (UI soignée, performances optimisées)
 
-### 🔧 **Technologies Maîtrisées**  
-- **Mobile** : Flutter • Dart • Firebase • Provider/Clean Architecture • API REST/SQLite  • Intégration d'API  
-- **ERP** : Odoo • Python • PostgreSQL • XML 
-- **DevOps** : CI/CD (GitHub Actions) • Docker  
+Solutions métiers intégrées avec Odoo (ERP, CRM, facturation, comptabilité CEMAC…)
 
+Systèmes connectés où mobile + back-end métier = productivité maximale
 
-### 📫 **Collaboration**  
-- Ouvert aux **missions freelance**, **contributions open-source** et **projets innovants**  
-- Contact : [jordankamga17@gmail.com] | [LinkedIn](www.linkedin.com/in/jordan-kamga-wafo-524353206)  
+🛠️ Compétences clés
+📱 Développement Mobile
+Flutter • Dart • Firebase
 
-📌 *"Transformer des problèmes complexes en solutions élégantes."*  
+Clean Architecture • Provider / GetX
+
+API REST • SQLite • Notification Push
+
+🧩 ERP & Back-end
+Odoo (modules personnalisés, intégration OCA)
+
+Python • PostgreSQL • XML • QWeb
+
+Déploiement Dockerisé
+
+⚙️ DevOps & Outils
+Docker • CI/CD (GitHub Actions, GitLab CI)
+
+Git • GitHub • Debugging avancé
+
+🤝 Envie de collaborer ?
+Je suis :
+
+💼 Ouvert à des missions freelance à distance
+
+🧑‍💻 Disponible pour des projets open-source ou innovants
+
+💬 Toujours partant pour échanger tech & business
+
+📩 Contact :
+
+Email : jordankamga17@gmail.com
+
+LinkedIn : linkedin.com/in/jordan-kamga-wafo-524353206
+
+"Transformer des idées complexes en solutions simples, fiables et évolutives."
+— C’est ma mission au quotidien.
