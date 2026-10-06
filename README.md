@@ -1,54 +1,70 @@
-## 🚀 Développeur Full-Stack Flutter & Odoo | Contributeur Open Source | Artisan du Code Propre
+## 👋 Jordan Kamga Wafo
 
-👋 Salut, je suis **Jordan Kamga Wafo**, passionné par la création de solutions logicielles robustes, évolutives et élégantes.
+### Développeur Odoo & Chef d'équipe | ERP sur mesure & Apps Mobile (Flutter, React Native)
 
-🎯 J’aide les entreprises et entrepreneurs à transformer leurs idées en **applications mobiles performantes** et **systèmes ERP sur mesure**.
+Je conçois des **ERP Odoo sur mesure** et les **applications mobiles** qui s'y connectent, de l'analyse du besoin à la mise en production. Basé à Douala, je travaille aussi à distance.
 
----
-
-### 📱 Ce que je construis
-
-* **Applications mobiles multiplateformes** avec Flutter (UI soignée, performances optimisées)
-* **Solutions métiers intégrées** avec Odoo (ERP, CRM, facturation, comptabilité CEMAC…)
-* **Systèmes connectés** où **mobile + back-end métier = productivité maximale**
+🌐 **Portfolio avec démos interactives : [orkojr.github.io](https://orkojr.github.io)**
 
 ---
 
-### 🛠️ Compétences clés
+### 🧩 Ce que je construis
 
-#### 📱 **Développement Mobile**
-
-* Flutter • Dart • Firebase
-* Clean Architecture • Provider / GetX
-* API REST • SQLite • Notification Push
-
-#### 🧩 **ERP & Back-end**
-
-* Odoo (modules personnalisés, intégration OCA)
-* Python • PostgreSQL • XML • QWeb
-* Déploiement Dockerisé
-
-#### ⚙️ **DevOps & Outils**
-
-* Docker • CI/CD (GitHub Actions, GitLab CI)
-* Git • GitHub • Debugging avancé
+* **ERP Odoo sur mesure** : paie, RH, comptabilité (CEMAC), ventes, stocks, multi-sociétés
+* **Points de vente pour la restauration** : commandes par serveur, session de caisse, reçus, crédit et paiements partiels
+* **Applications mobiles multiplateformes** en Flutter et React Native, connectées au back-end métier
+* **Modules métiers spécifiques** : gestion locative, gestion hôtelière (PMS), suivi-évaluation de projets
 
 ---
 
-### 🤝 Envie de collaborer ?
+### 📌 Réalisations
 
-Je suis :
+| Projet | Description | Stack |
+| --- | --- | --- |
+| **ERP de holding** | Un seul Odoo pour 6 filiales : RH, paie, comptabilité, ventes, avec isolation des données par société. En production. | Odoo, Python, PostgreSQL, Docker |
+| **POS mobile de restauration** | Commandes, caisse, stocks et impression de reçus depuis un téléphone. En production. | React Native, Laravel |
+| **Application mobile d'ERP** | Client mobile d'un ERP de gestion d'entreprise, en Clean Architecture. En production. | React Native, Laravel |
+| **Gestion locative et hôtelière** | Deux modules Odoo sur mesure, dont un PMS, intégrés à la facturation et à la maintenance. | Odoo, Python |
+| **[erp-bric](https://github.com/orkojr/erp-bric)** | ERP pour une entreprise de construction. | Odoo, Python |
 
-* 💼 Ouvert à des **missions freelance à distance**
-* 🧑‍💻 Disponible pour des **projets open-source ou innovants**
-* 💬 Toujours partant pour échanger tech & business
-
-📩 Contact :
-
-* Email : [jordankamga17@gmail.com](mailto:jordankamga17@gmail.com)
-* LinkedIn : [linkedin.com/in/jordan-kamga-wafo-524353206](https://www.linkedin.com/in/jordan-kamga-wafo-524353206)
+Les clients ne sont pas nommés, par confidentialité.
 
 ---
 
-> *"Transformer des idées complexes en solutions simples, fiables et évolutives."*
-> — C’est ma mission au quotidien.
+### 🛠️ Compétences
+
+**ERP & Back-end**
+
+* Odoo (modules personnalisés, ORM, sécurité multi-sociétés, intégration OCA)
+* Python • PostgreSQL • XML • QWeb • API REST • Laravel
+
+**Mobile**
+
+* Flutter • Dart • React Native
+* Clean Architecture • SOLID • Provider / GetX
+* Firebase • SQLite • Notifications push
+
+**DevOps & Outils**
+
+* Docker • docker-compose • CI/CD (GitLab CI, GitHub Actions)
+* Git • Revue de code
+
+---
+
+### 💼 Parcours
+
+* **Chef d'équipe Odoo**, OVA Consulting (depuis juillet 2025)
+* **Consultant développeur Flutter**, WORLS Engineering Solutions (2024)
+* **Technicien Odoo**, Third Sarl (mai 2022 à mai 2023)
+* **Développeur**, SALEKA LTD (2020 à 2023)
+* 🎓 Master 2 Recherche en Systèmes Embarqués et Intelligence Artificielle, Université de Douala (en cours)
+
+---
+
+### 🤝 Travaillons ensemble
+
+Un projet ERP ou mobile ? Décrivez-moi votre besoin, je vous réponds avec une première analyse.
+
+* 🌐 Portfolio : [orkojr.github.io](https://orkojr.github.io)
+* 📩 E-mail : [jordankamga17@gmail.com](mailto:jordankamga17@gmail.com)
+* 💼 LinkedIn : [jordan-kamga-wafo](https://www.linkedin.com/in/jordan-kamga-wafo-524353206)
